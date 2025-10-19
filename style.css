@@ -1096,7 +1096,6 @@ nav ul li a:hover {
   letter-spacing: 0.05em;
   cursor: pointer;
   border: none;
-  box-shadow: 0 4px 10px rgba(19, 2, 2, 0.3);
 }
 
 .signup-form button:hover {
